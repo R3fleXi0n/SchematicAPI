@@ -1,0 +1,7 @@
+name: SchematicAPI
+version: 1.0
+author: R3fleXi0n
+main: lu.r3flexi0n.schematicapi.SchematicAPI
+commands:
+  schematic:
+    aliases: [schem,schematicapi]
